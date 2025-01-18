@@ -1,33 +1,33 @@
-# Zeno
-Welcome to Zeno AI - Your Ultimate AI Evaluation Platform!
-Introduction
-Zeno AI is an innovative, open-source framework designed for comprehensive AI model evaluation and data management. It provides a powerful combination of a Python API and an interactive user interface, enabling developers, researchers, and data scientists to explore, visualize, and analyze the performance of their AI models across diverse use cases12.
-Key Features
-Zeno AI offers a wide range of features to streamline the AI evaluation process:
-Data Exploration: Visualize various data types, including images, text, audio, and sensor data3.
-Error Discovery: Automatically surface systematic failures in your models using advanced techniques like slice finder3.
-Interactive Visualizations: Create beautiful, customizable charts to compare model performance across different slices and models3.
-Report Authoring: Generate comprehensive reports with interactive visualizations and markdown text3.
-Customizable Views: Support for multiple AI tasks, from chatbot conversations to object detection and audio transcription7.
-Collaborative Tools: Author and publish reports collaboratively3.
-Getting Started
-To begin using Zeno AI, follow these steps:
-Install the Zeno client:
-bash
-pip install zeno-client
-Initialize the client and create a project:
+# Welcome to Zeno - Your Ultimate Conversational AI Framework!
+🐱 Introduction
+Welcome to the Zeno repository, an open-source framework designed for voice and multimodal conversational AI applications. Zeno is the perfect tool for developers looking to create innovative and interactive conversational experiences for users. Whether you are building a chatbot, virtual assistant, or any other type of conversational interface, Zeno provides all the necessary tools and resources to bring your project to life12.
+🌟 Features
+Zeno comes packed with a wide range of features to streamline the development process and enhance the user experience. Some key features include:
+AI Model Evaluation - Interactive platform for exploring and managing data, debugging models, and tracking performance1
+Customizable Metrics - Ability to encode complex model properties and compare models across different dimensions1
+Visualization Tools - Create interactive charts and visualizations to analyze model performance3
+Error Discovery - Advanced techniques to automatically surface systematic model failures3
+Multimodal Support - Supports evaluation across various data types including images, text, audio, and sensor data27
+🚀 Getting Started
+To get started with Zeno, you can install it using pip:
 python
-from zeno_client import ZenoClient, ZenoMetric
+pip install zeno-client
 
+from zeno_client import ZenoClient, ZenoMetric
 client = ZenoClient(YOUR_API_KEY)
 project = client.create_project(name="Writing Assistant", view="text-classification")
-Upload your dataset and system outputs:
-python
-project.upload_dataset(df, id_column="id", data_column='text', label_column="label")
-project.upload_system(system_df, name="GPT-4", id_column="id", output_column="output")
-Community & Support
-Join our growing community of AI practitioners using Zeno AI! Share your projects, ask questions, and collaborate with fellow enthusiasts to expand the possibilities of AI evaluation.
-For support and assistance, visit our GitHub repository or reach out to our team through the official Zeno AI website.
-License
-Zeno AI is open-source software. For detailed licensing information, please refer to the LICENSE file in the repository.
-Get started with Zeno AI today and unlock powerful insights into your AI models' performance!
+📦 Installation
+Follow these steps to set up Zeno:
+Install the Zeno client using pip
+Initialize a ZenoClient with your API key
+Create a project and upload your dataset
+Upload system outputs for evaluation
+📚 Documentation
+Zeno provides comprehensive documentation for evaluating AI models across different use cases, from image classification to audio transcription7.
+🌐 Community & Support
+Zeno is backed by research from Carnegie Mellon University and has received support from the Mozilla Technology Fund2. The platform aims to make AI model evaluation more accessible and comprehensive.
+🎉 Contribute
+Researchers and developers can contribute to Zeno's mission of improving AI model evaluation and transparency2.
+📃 License
+Check the project repository for specific licensing details.
+Thank you for choosing Zeno as your AI evaluation framework! 🚀🤖
