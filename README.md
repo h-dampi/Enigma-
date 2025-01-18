@@ -1,45 +1,65 @@
-Zeno: Ultimate Conversational AI Framework 🚀
-🐱 Introduction
-Zeno is an open-source framework designed for advanced voice and multimodal conversational AI applications. Perfect for developers seeking to create innovative, interactive conversational experiences.
-🌟 Features
-AI Model Evaluation
-Interactive platform for exploring and managing data
-Debugging models and tracking performance
-Customizable Metrics
-Encode complex model properties
-Compare models across different dimensions
-Visualization Tools
-Create interactive performance charts
-Analyze model capabilities in depth
-Error Discovery
-Automated systematic model failure detection
-Multimodal Support
-Evaluation across images, text, audio, sensor data
-🚀 Quick Start
-Installation
-bash
-pip install zeno-client
-Basic Usage
-python
-from zeno_client import ZenoClient, ZenoMetric
+## Zeno: Your Ultimate Conversational AI Framework
 
-client = ZenoClient(YOUR_API_KEY)
-project = client.create_project(
-    name="Writing Assistant", 
-    view="text-classification"
-)
-📦 Setup Steps
-Install Zeno client
-Initialize ZenoClient
-Create project
-Upload dataset
-Evaluate model outputs
-📚 Documentation
-Comprehensive guides available for various AI evaluation use cases.
-🌐 Community
-Backed by Carnegie Mellon University
-Supported by Mozilla Technology Fund
-🎉 Contribute
-Researchers and developers welcome to improve AI model evaluation transparency.
-📃 License
-[Specify License Details] Thank you for choosing Zeno! 🤖
+### 🤖 Introduction
+
+Zeno is an advanced open-source framework designed for developing sophisticated conversational AI applications. Our platform empowers developers to create innovative, interactive, and intelligent conversational interfaces across multiple domains.
+
+### 🌟 Key Features
+
+#### Technical Capabilities
+- **Advanced Natural Language Processing**
+- **Multi-modal Input Support**
+- **Scalable Architecture**
+- **Real-time Learning Mechanisms**
+
+#### Performance Highlights
+- High accuracy language understanding
+- Low-latency response generation
+- Adaptive context management
+- Robust error handling
+
+### 🚀 Quick Start
+
+```python
+from zeno import ZenoAI
+
+# Initialize Zeno
+ai_assistant = ZenoAI(config='standard')
+
+# Configure conversational parameters
+ai_assistant.setup_conversation_mode()
+
+# Start interaction
+response = ai_assistant.process_input("Hello, how are you?")
+```
+
+### 📦 Installation
+
+```bash
+pip install zeno-ai
+```
+
+### 🔒 Security & Privacy
+
+- End-to-end encryption
+- GDPR compliant
+- Anonymized data processing
+- Transparent AI decision tracking
+
+### 💡 Use Cases
+
+- Customer Support
+- Virtual Assistants
+- Educational Platforms
+- Enterprise Communication Tools
+
+### 🌐 Community & Support
+
+- Open-source development
+- Active GitHub repository
+- Regular community updates
+- Comprehensive documentation
+
+### 📃 Licensing
+
+MIT Open Source License
