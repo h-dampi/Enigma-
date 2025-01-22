@@ -1,11 +1,11 @@
-![image (64) (2)](https://github.com/user-attachments/assets/3fb7ad83-cc48-4e15-aede-f8c72f966cd8)
 
+![image (64) (3)](https://github.com/user-attachments/assets/f96ba7d2-277d-4fde-8296-99b1b4b8fe5a)
 
-## Prism: Your Ultimate Conversational AI Framework
+## Helix: Your Ultimate Conversational AI Framework
 
 ### 🤖 Introduction
 
-Prism is an advanced open-source framework designed for developing sophisticated conversational AI applications. Our platform empowers developers to create innovative, interactive, and intelligent conversational interfaces across multiple domains.
+Helix is an advanced open-source framework designed for developing sophisticated conversational AI applications. Our platform empowers developers to create innovative, interactive, and intelligent conversational interfaces across multiple domains.
 
 ### 🌟 Key Features
 
@@ -24,10 +24,10 @@ Prism is an advanced open-source framework designed for developing sophisticated
 ### 🚀 Quick Start
 
 ```python
-from prism import PrismAI
+from helix import HelixAI
 
-# Initialize Prism
-ai_assistant = PrismAI(config='standard')
+# Initialize Helix
+ai_assistant = HelixAI(config='standard')
 
 # Configure conversational parameters
 ai_assistant.setup_conversation_mode()
@@ -39,7 +39,7 @@ response = ai_assistant.process_input("Hello, how are you?")
 ### 📦 Installation
 
 ```bash
-pip install prism-ai
+pip install helix-ai
 ```
 
 ### 🔒 Security & Privacy
