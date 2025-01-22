@@ -1,4 +1,6 @@
-## Zeno: Your Ultimate Conversational AI Framework
+
+## ![image (63)](https://github.com/user-attachments/assets/28a7d6cb-bd41-48a3-bb59-51dd77675b74)
+Zeno: Your Ultimate Conversational AI Framework
 
 ### 🤖 Introduction
 
