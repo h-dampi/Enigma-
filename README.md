@@ -1,11 +1,11 @@
 
-![image (64) (3)](https://github.com/user-attachments/assets/f96ba7d2-277d-4fde-8296-99b1b4b8fe5a)
+![bannerai (1)](https://github.com/user-attachments/assets/25ef3a43-5559-4073-ab69-74398ba610d6)
 
-## Helix: Your Ultimate Conversational AI Framework
+## Enigma: Your Ultimate Conversational AI Framework
 
 ### 🤖 Introduction
 
-Helix is an advanced open-source framework designed for developing sophisticated conversational AI applications. Our platform empowers developers to create innovative, interactive, and intelligent conversational interfaces across multiple domains.
+Enigma is an advanced open-source framework designed for developing sophisticated conversational AI applications. Our platform empowers developers to create innovative, interactive, and intelligent conversational interfaces across multiple domains.
 
 ### 🌟 Key Features
 
@@ -24,10 +24,10 @@ Helix is an advanced open-source framework designed for developing sophisticated
 ### 🚀 Quick Start
 
 ```python
-from helix import HelixAI
+from enigma import EnigmaAI
 
-# Initialize Helix
-ai_assistant = HelixAI(config='standard')
+# Initialize Enigma
+ai_assistant = EnigmaAI(config='standard')
 
 # Configure conversational parameters
 ai_assistant.setup_conversation_mode()
@@ -39,7 +39,7 @@ response = ai_assistant.process_input("Hello, how are you?")
 ### 📦 Installation
 
 ```bash
-pip install helix-ai
+pip install enigma-ai
 ```
 
 ### 🔒 Security & Privacy
@@ -66,3 +66,4 @@ pip install helix-ai
 ### 📃 Licensing
 
 MIT Open Source License
+
