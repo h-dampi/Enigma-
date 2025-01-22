@@ -1,9 +1,9 @@
 ![image (64)](https://github.com/user-attachments/assets/e0329d41-43b7-443c-a397-10c877659d51)
-## Zeno: Your Ultimate Conversational AI Framework
+## Prism: Your Ultimate Conversational AI Framework
 
 ### 🤖 Introduction
 
-Zeno is an advanced open-source framework designed for developing sophisticated conversational AI applications. Our platform empowers developers to create innovative, interactive, and intelligent conversational interfaces across multiple domains.
+Prism is an advanced open-source framework designed for developing sophisticated conversational AI applications. Our platform empowers developers to create innovative, interactive, and intelligent conversational interfaces across multiple domains.
 
 ### 🌟 Key Features
 
@@ -22,10 +22,10 @@ Zeno is an advanced open-source framework designed for developing sophisticated 
 ### 🚀 Quick Start
 
 ```python
-from zeno import ZenoAI
+from prism import PrismAI
 
-# Initialize Zeno
-ai_assistant = ZenoAI(config='standard')
+# Initialize Prism
+ai_assistant = PrismAI(config='standard')
 
 # Configure conversational parameters
 ai_assistant.setup_conversation_mode()
@@ -37,7 +37,7 @@ response = ai_assistant.process_input("Hello, how are you?")
 ### 📦 Installation
 
 ```bash
-pip install zeno-ai
+pip install prism-ai
 ```
 
 ### 🔒 Security & Privacy
