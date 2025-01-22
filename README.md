@@ -1,4 +1,6 @@
-![image (64) (1)](https://github.com/user-attachments/assets/4d3391e8-100c-4c08-b78a-c0e7989c2fe7)
+![image (64) (2)](https://github.com/user-attachments/assets/3fb7ad83-cc48-4e15-aede-f8c72f966cd8)
+
+
 ## Prism: Your Ultimate Conversational AI Framework
 
 ### 🤖 Introduction
