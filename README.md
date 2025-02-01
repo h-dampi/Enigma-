@@ -2,9 +2,7 @@
 
 ![bannerai (3)](https://github.com/user-attachments/assets/4ae8157a-8b57-40eb-8e8f-9e9e24204a38)
 
-Here's the modified version with "Enigma" replaced by "VIVID":
 
-bannerai (1)
 
 ## VIVID: Your Ultimate Conversational AI Framework
 
