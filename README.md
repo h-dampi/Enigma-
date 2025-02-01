@@ -1,11 +1,12 @@
 
-![bannerai (1)](https://github.com/user-attachments/assets/25ef3a43-5559-4073-ab69-74398ba610d6)
+![bannerai (2)](https://github.com/user-attachments/assets/a33171dd-f529-469d-b64b-1433c3e17f0e)
 
-## Enigma: Your Ultimate Conversational AI Framework
+
+## GIGI: Your Ultimate Conversational AI Framework
 
 ### 🤖 Introduction
 
-Enigma is an advanced open-source framework designed for developing sophisticated conversational AI applications. Our platform empowers developers to create innovative, interactive, and intelligent conversational interfaces across multiple domains.
+GIGI is an advanced open-source framework designed for developing sophisticated conversational AI applications. Our platform empowers developers to create innovative, interactive, and intelligent conversational interfaces across multiple domains.
 
 ### 🌟 Key Features
 
@@ -24,10 +25,10 @@ Enigma is an advanced open-source framework designed for developing sophisticate
 ### 🚀 Quick Start
 
 ```python
-from enigma import EnigmaAI
+from gigi import GIGIAI
 
-# Initialize Enigma
-ai_assistant = EnigmaAI(config='standard')
+# Initialize GIGI
+ai_assistant = GIGIAI(config='standard')
 
 # Configure conversational parameters
 ai_assistant.setup_conversation_mode()
@@ -39,7 +40,7 @@ response = ai_assistant.process_input("Hello, how are you?")
 ### 📦 Installation
 
 ```bash
-pip install enigma-ai
+pip install gigi-ai
 ```
 
 ### 🔒 Security & Privacy
