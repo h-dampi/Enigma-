@@ -1,12 +1,16 @@
 
-![bannerai (2)](https://github.com/user-attachments/assets/a33171dd-f529-469d-b64b-1433c3e17f0e)
 
+![bannerai (3)](https://github.com/user-attachments/assets/4ae8157a-8b57-40eb-8e8f-9e9e24204a38)
 
-## GIGI: Your Ultimate Conversational AI Framework
+Here's the modified version with "Enigma" replaced by "VIVID":
+
+bannerai (1)
+
+## VIVID: Your Ultimate Conversational AI Framework
 
 ### 🤖 Introduction
 
-GIGI is an advanced open-source framework designed for developing sophisticated conversational AI applications. Our platform empowers developers to create innovative, interactive, and intelligent conversational interfaces across multiple domains.
+VIVID is an advanced open-source framework designed for developing sophisticated conversational AI applications. Our platform empowers developers to create innovative, interactive, and intelligent conversational interfaces across multiple domains.
 
 ### 🌟 Key Features
 
@@ -25,10 +29,10 @@ GIGI is an advanced open-source framework designed for developing sophisticated 
 ### 🚀 Quick Start
 
 ```python
-from gigi import GIGIAI
+from vivid import VividAI
 
-# Initialize GIGI
-ai_assistant = GIGIAI(config='standard')
+# Initialize VIVID
+ai_assistant = VividAI(config='standard')
 
 # Configure conversational parameters
 ai_assistant.setup_conversation_mode()
@@ -40,7 +44,7 @@ response = ai_assistant.process_input("Hello, how are you?")
 ### 📦 Installation
 
 ```bash
-pip install gigi-ai
+pip install vivid-ai
 ```
 
 ### 🔒 Security & Privacy
@@ -67,4 +71,5 @@ pip install gigi-ai
 ### 📃 Licensing
 
 MIT Open Source License
+
 
